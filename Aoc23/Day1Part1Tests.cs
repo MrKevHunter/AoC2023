@@ -1,8 +1,5 @@
 ﻿namespace Aoc23;
 
-using FluentAssertions;
-using Xunit;
-
 public class Day1Part1Tests
 {
     [Theory]

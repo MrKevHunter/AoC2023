@@ -1,9 +1,5 @@
 ﻿namespace Aoc23;
 
-using System.Globalization;
-using FluentAssertions;
-using Xunit;
-
 public class Day1Part2Tests
 {
     [Theory]
